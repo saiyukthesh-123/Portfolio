@@ -11,13 +11,13 @@ header{
     padding:25px;
 }
 nav{
-    background:rgb(147, 94, 233);
+    background:rgb(3, 213, 250);
     text-align:center;
     padding:10px;
 }
 
 nav a{
-    color:white;
+    color:rgb(29, 25, 25);
     text-decoration:none;
     margin:15px;
     font-weight:bold;
@@ -29,7 +29,7 @@ footer{
     padding:15px;
 }
 .container{
-    width:80%;
+    width:90%;
     margin:auto;
     padding:20px;
 }
